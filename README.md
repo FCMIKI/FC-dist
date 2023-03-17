@@ -1,2 +1,2 @@
-# fc-dist
-cdn
+# FC-dist
+MY托管alist资源
